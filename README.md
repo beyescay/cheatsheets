@@ -7,4 +7,4 @@ To explore the cheatsheet for a specific tool, simply click on its name from the
 
 ---
 
-- > [Git](#git.md) - A distributed version control system for tracking and managing changes in source code.
+- > [Git](Git.md) - A distributed version control system for tracking and managing changes in source code.
